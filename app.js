@@ -95,6 +95,6 @@ app.get('/posts/:id', function(req, res) {
 });
 
 
-app.listen(698, (req,res)=> {
-  console.log("server started at Port no :698")
+app.listen(300, (req,res)=> {
+  console.log("server started at Port no :300")
 });
